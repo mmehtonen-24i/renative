@@ -1,6 +1,6 @@
 {
     "name": "renative-app",
-    "version": "0.32.0-alpha.43",
+    "version": "0.32.0-rn-version-upgrade.0",
     "description": "🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `FireTV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `Tizen Mobile`, `LG webOS`, `macOS/OSX`, `Windows`, `KaiOS`, `FirefoxOS` and `Firefox TV` platforms",
     "homepage": "https://github.com/pavjacko/renative#readme",
     "bugs": {
@@ -56,7 +56,7 @@
         "react": "16.13.1",
         "react-art": "16.13.1",
         "react-dom": "16.13.1",
-        "react-native": "0.61.2",
+        "react-native": "0.62.3",
         "react-native-gesture-handler": "1.4.1",
         "react-native-google-cast": "github:hosek/react-native-google-cast#sdk4.4.5",
         "react-native-reanimated": "1.0.0-alpha.12",
