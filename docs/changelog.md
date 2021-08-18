@@ -3182,6 +3182,24 @@ rnv run -p android
 - none
 
   
+## v0.32.0-rn-version-upgrade.3 (2021-8-18)
+
+### Fixed
+
+- bump up style-loader
+- update package versions
+- update to rn 0.62.3
+- optimise project bootstrap
+
+### Added Features
+
+- none
+
+### Breaking Changes
+
+- none
+
+  
 ## v0.30.0-rc1 (2020-6-21)
 
 ### Fixed
