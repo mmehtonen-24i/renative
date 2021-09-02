@@ -3221,6 +3221,27 @@ rnv run -p android
 - none
 
   
+## v0.32.0-rn-version-upgrade.5 (2021-9-2)
+
+### Fixed
+
+- packages version update
+- cli overrides
+- 0.32.0-rn-version-upgrade.3
+- bump up style-loader
+- update package versions
+- update to rn 0.62.3
+- 0.32.0-alpha.45
+
+### Added Features
+
+- none
+
+### Breaking Changes
+
+- none
+
+  
 ## v0.30.0-rc1 (2020-6-21)
 
 ### Fixed
